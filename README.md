@@ -1,4 +1,4 @@
-# honeydrop-IA
+# HoneyDrop-IA
 
 # HoneyDrop - Inteligência Artificial
 
